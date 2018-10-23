@@ -1,2 +1,2 @@
-!/bin/sh
+#!/bin/bash
 exec python test.py
