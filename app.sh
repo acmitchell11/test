@@ -1,5 +1,5 @@
 #!/bin/bash
-while 1
+while true
 do
     python test.py
 done
