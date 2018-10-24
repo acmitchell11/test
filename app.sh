@@ -1,2 +1,5 @@
 #!/bin/bash
-exec python test.py
+while [1]
+do
+    python test.py
+done
