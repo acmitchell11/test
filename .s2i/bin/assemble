@@ -2,4 +2,4 @@
 echo "Running stock build:"
 ${STI_SCRIPTS_PATH}/assemble
 echo "Fixing the mess:"
-chmod 755 /opt/app-root/src/app.sh
+chmod 755 /opt/app-root/src/start.sh
